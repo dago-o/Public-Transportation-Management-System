@@ -127,11 +127,11 @@ git clone https://github.com/your-username/gadaa-bus-system.git
 
 # ⚙️ Installation Guide (Local Setup)Follow the steps below to run the Gadaa Bus System on a local machine.---## 1. Clone the Repository```bashgit clone https://github.com/your-username/gadaa-bus-system.git
 
-2. Move Project to Server Directory
+### 2. Move Project to Server Directory
 After cloning or downloading, move the project folder into the XAMPP htdocs directory:
 C:\xampp\htdocs\gadaa-bus-system
 
-3. Start Local Server
+### 3. Start Local Server
 Open XAMPP Control Panel and start the following services:
 
 
@@ -142,13 +142,13 @@ MySQL
 
 
 
-4. Create Database
+### 4. Create Database
 Open your browser and go to:
 http://localhost/phpmyadmin
 Then create a new database:
 gadaa_bus_db
 
-5. Import Database
+### 5. Import Database
 Inside phpMyAdmin:
 
 
@@ -165,11 +165,11 @@ Click Go to import tables and data
 
 
 
-6. Run the Project
+### 6. Run the Project
 Open your browser and access the system using:
 http://localhost/gadaa-bus-system
 
-7. Login and Use the System
+### 7. Login and Use the System
 
 
 Register as a passenger or login as admin
@@ -178,5 +178,7 @@ Register as a passenger or login as admin
 Start using features such as booking, scheduling, and management
 
 
+Author: Degefa Lemma.
+Gmail : dagefalemma@gmail.com
 
-If you want next upgrade, I can make your README:- 🔥 :contentReference[oaicite:0]{index=0}- 🚀 or :contentReference[oaicite:1]{index=1}- 📊 or :contentReference[oaicite:2]{index=2}
+
