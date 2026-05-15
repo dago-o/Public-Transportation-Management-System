@@ -71,7 +71,7 @@ The system includes the following core tables:
 # 📸 System Screenshots
 
 ## Home Page
-![Home page](screenshots/home.png)
+![Home page](screenshots/home.jpg)
 
 ## 🔐 Login Page
 > Add screenshot below
