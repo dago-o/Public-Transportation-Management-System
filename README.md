@@ -97,17 +97,10 @@ The system includes the following core tables:
 ## 🎫 Ticket Booking Page
 > Add screenshot below
 
-![Ticket Booking](screenshots/schedules.jpg)
+![Ticket Booking](screenshots/available_schedule.jpg)
 
 ---
 
-
-## 📅 Schedule Management
-> Add screenshot below
-
-![Schedule Management](screenshots/schedules.jpg)
-
----
 
 ## 📢 Notifications
 > Add screenshot below
