@@ -76,49 +76,85 @@ The system includes the following core tables:
 ## 🔐 Login Page
 > Add screenshot below
 
-![Login Page](screenshots/login.png)
+![Login Page](screenshots/login.jpg)
 
 ---
 
 ## 📝 Registration Page
 > Add screenshot below
 
-![Registration Page](screenshots/register.png)
+![Registration Page](screenshots/registration.jpg)
+
+---
+
+## 🎫 Passenger Dashboard Page
+> Add screenshot below
+
+![Passenger Page](screenshots/userboard.jpg)
 
 ---
 
 ## 🎫 Ticket Booking Page
 > Add screenshot below
 
-![Ticket Booking](screenshots/booking.png)
+![Ticket Booking](screenshots/schedules.jpg)
+
+---
+
+
+## 📅 Schedule Management
+> Add screenshot below
+
+![Schedule Management](screenshots/schedules.jpg)
+
+---
+
+## 📢 Notifications
+> Add screenshot below
+
+![Notifications](screenshots/notification.jpg)
+
+---
+
+## 📢 Announcements
+> Add screenshot below
+
+![Announcements](screenshots/announcement.jpg)
+
+---
+
+## 📢 Support Page
+> Add screenshot below
+
+![Support Page](screenshots/support.jpg)
+
+---
+
+## 🎫 Admin Dashboard Page
+> Add screenshot below
+
+![Admin Page](screenshots/adminboard.jpg)
 
 ---
 
 ## 🛣️ Route Management (Admin)
 > Add screenshot below
 
-![Route Management](screenshots/routes.png)
+![Route Management](screenshots/routes.jpg)
 
 ---
 
-## 📅 Schedule Management
+## 🛣️ Schedule Management (Admin)
 > Add screenshot below
 
-![Schedule Management](screenshots/schedule.png)
-
----
-
-## 📢 Notifications / Announcements
-> Add screenshot below
-
-![Notifications](screenshots/notifications.png)
+![Route Management](screenshots/schedules.jpg)
 
 ---
 
 ## 📊 Reports Dashboard
 > Add screenshot below
 
-![Reports](screenshots/reports.png)
+![Reports](screenshots/report.jpg)
 
 ---
 
